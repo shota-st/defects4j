@@ -1,0 +1,230 @@
+[
+  { "fileName": "b1", "list": {} },
+  {
+    "fileName": "b10",
+    "list": {
+      "$4": "relUrl",
+      "$5": "abs",
+      "$6": "base",
+      "$7": "baseUri",
+      "$1": "absUrl",
+      "$2": "attributeKey",
+      "$3": "Validate"
+    }
+  },
+  { "fileName": "b11", "list": {} },
+  { "fileName": "b12", "list": {} },
+  {
+    "fileName": "b13",
+    "list": {
+      "$4": "attributes",
+      "$1": "hasAttr",
+      "$2": "attributeKey",
+      "$3": "Validate"
+    }
+  },
+  { "fileName": "b15", "list": {} },
+  { "fileName": "b16", "list": {} },
+  { "fileName": "b17", "list": {} },
+  { "fileName": "b18", "list": {} },
+  { "fileName": "b19", "list": {} },
+  { "fileName": "b2", "list": {} },
+  { "fileName": "b20", "list": {} },
+  { "fileName": "b24", "list": {} },
+  { "fileName": "b25", "list": {} },
+  {
+    "fileName": "b26",
+    "list": {
+      "$4": "Document",
+      "$1": "clean",
+      "$2": "dirtyDocument",
+      "$3": "Validate"
+    }
+  },
+  {
+    "fileName": "b27",
+    "list": {
+      "$4": "m",
+      "$5": "charset",
+      "$6": "Locale",
+      "$1": "getCharsetFromContentType",
+      "$2": "contentType",
+      "$3": "charsetPattern"
+    }
+  },
+  { "fileName": "b29", "list": {} },
+  { "fileName": "b32", "list": {} },
+  { "fileName": "b33", "list": {} },
+  {
+    "fileName": "b34",
+    "list": {
+      "$4": "offset",
+      "$5": "input",
+      "$6": "length",
+      "$10": "pos",
+      "$7": "i",
+      "$8": "last",
+      "$9": "j",
+      "$1": "nextIndexOf",
+      "$2": "seq",
+      "$3": "startChar"
+    }
+  },
+  { "fileName": "b35", "list": {} },
+  { "fileName": "b37", "list": { "$1": "html", "$2": "accum" } },
+  { "fileName": "b38", "list": {} },
+  { "fileName": "b39", "list": {} },
+  { "fileName": "b4", "list": {} },
+  {
+    "fileName": "b40",
+    "list": {
+      "$4": "publicId",
+      "$5": "systemId",
+      "$1": "baseUri",
+      "$2": "name",
+      "$3": "Validate"
+    }
+  },
+  { "fileName": "b41", "list": {} },
+  {
+    "fileName": "b42",
+    "list": {
+      "$4": "type",
+      "$5": "HttpConnection",
+      "$6": "data",
+      "$7": "val",
+      "$10": "options",
+      "$11": "elements",
+      "$8": "option",
+      "$9": "set",
+      "$1": "formData",
+      "$2": "el",
+      "$3": "name"
+    }
+  },
+  { "fileName": "b43", "list": {} },
+  { "fileName": "b45", "list": {} },
+  { "fileName": "b46", "list": {} },
+  { "fileName": "b47", "list": {} },
+  { "fileName": "b48", "list": {} },
+  { "fileName": "b49", "list": {} },
+  { "fileName": "b5", "list": {} },
+  { "fileName": "b51", "list": {} },
+  { "fileName": "b55", "list": {} },
+  {
+    "fileName": "b57",
+    "list": {
+      "$4": "attributes",
+      "$5": "it",
+      "$6": "attrKey",
+      "$1": "removeIgnoreCase",
+      "$2": "key",
+      "$3": "Validate"
+    }
+  },
+  { "fileName": "b59", "list": {} },
+  { "fileName": "b6", "list": {} },
+  {
+    "fileName": "b61",
+    "list": {
+      "$4": "className",
+      "$5": "len",
+      "$6": "wantLen",
+      "$10": "start",
+      "$7": "i",
+      "$8": "Character",
+      "$9": "inClass",
+      "$1": "hasClass",
+      "$2": "attributes",
+      "$3": "classAttr"
+    }
+  },
+  { "fileName": "b62", "list": {} },
+  { "fileName": "b64", "list": {} },
+  { "fileName": "b68", "list": {} },
+  { "fileName": "b7", "list": {} },
+  { "fileName": "b70", "list": {} },
+  {
+    "fileName": "b72",
+    "list": {
+      "$4": "charBuf",
+      "$5": "start",
+      "$6": "hash",
+      "$7": "offset",
+      "$10": "index",
+      "$11": "cached",
+      "$8": "i",
+      "$9": "stringCache",
+      "$1": "cacheString",
+      "$2": "count",
+      "$3": "maxStringCacheLen"
+    }
+  },
+  { "fileName": "b75", "list": {} },
+  { "fileName": "b76", "list": {} },
+  {
+    "fileName": "b77",
+    "list": {
+      "$4": "stack",
+      "$5": "elName",
+      "$6": "next",
+      "$7": "firstFound",
+      "$1": "popStackToClose",
+      "$2": "endTag",
+      "$3": "pos"
+    }
+  },
+  { "fileName": "b78", "list": {} },
+  { "fileName": "b8", "list": {} },
+  { "fileName": "b80", "list": {} },
+  { "fileName": "b81", "list": {} },
+  { "fileName": "b82", "list": {} },
+  { "fileName": "b84", "list": {} },
+  {
+    "fileName": "b85",
+    "list": { "$4": "parent", "$1": "key", "$2": "Validate", "$3": "val" }
+  },
+  {
+    "fileName": "b86",
+    "list": {
+      "$4": "Jsoup",
+      "$5": "doc",
+      "$6": "decl",
+      "$7": "el",
+      "$8": "NodeUtils",
+      "$1": "asXmlDeclaration",
+      "$2": "data",
+      "$3": "Parser"
+    }
+  },
+  { "fileName": "b88", "list": { "$1": "getValue", "$2": "val" } },
+  {
+    "fileName": "b89",
+    "list": {
+      "$4": "Attributes",
+      "$5": "val",
+      "$6": "oldVal",
+      "$1": "setValue",
+      "$2": "parent",
+      "$3": "i"
+    }
+  },
+  { "fileName": "b9", "list": {} },
+  { "fileName": "b90", "list": {} },
+  {
+    "fileName": "b93",
+    "list": {
+      "$4": "type",
+      "$5": "HttpConnection",
+      "$6": "data",
+      "$7": "val",
+      "$10": "options",
+      "$11": "elements",
+      "$8": "option",
+      "$9": "set",
+      "$1": "formData",
+      "$2": "el",
+      "$3": "name"
+    }
+  }
+]

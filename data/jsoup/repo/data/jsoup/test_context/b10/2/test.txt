@@ -1,0 +1,9 @@
+Failing tests: 8
+  - org.jsoup.integration.ParseTest::testYahooJp
+  - org.jsoup.integration.ParseTest::testNewsHomepage
+  - org.jsoup.nodes.NodeTest::absHandlesRelativeQuery
+  - org.jsoup.nodes.NodeTest::handlesBaseUri
+  - org.jsoup.nodes.NodeTest::handlesAbsPrefix
+  - org.jsoup.parser.ParserTest::handlesBaseTags
+  - org.jsoup.parser.ParserTest::handlesBaseWithoutHref
+  - org.jsoup.safety.CleanerTest::resolvesRelativeLinks
